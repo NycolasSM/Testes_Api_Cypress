@@ -1,0 +1,24 @@
+{
+  "name": "testes_api_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NycolasSM/Testes_Api_Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NycolasSM/Testes_Api_Cypress/issues"
+  },
+  "homepage": "https://github.com/NycolasSM/Testes_Api_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
